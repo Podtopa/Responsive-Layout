@@ -18,11 +18,11 @@ img{
 }
 
 .wrap{
-    min-height: 100%;
-    overflow: hidden;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    min-height: 100%;
+    overflow: hidden;
 }
 
 .content{
@@ -55,10 +55,10 @@ img{
 }
 
 .main__content {
-    padding: 15px 20px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
+    padding: 15px 20px;
 }
 
 .aside__content{
@@ -82,7 +82,6 @@ img{
     text-align: start;
     color: white;
     padding: 0 2px;
-
 }
 
 @media (min-width: 640px) {

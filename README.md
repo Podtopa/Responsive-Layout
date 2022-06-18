@@ -1,1 +1,1 @@
-# TechMagic-homework
+# Responsive Layout
